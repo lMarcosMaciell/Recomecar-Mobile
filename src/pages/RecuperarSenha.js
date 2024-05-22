@@ -36,6 +36,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     padding: 20,
+    backgroundColor: 'rgb(255, 223, 251)'
   },
   title: {
     fontSize: 24,
@@ -50,6 +51,7 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     marginBottom: 10,
     padding: 10,
+    backgroundColor: 'lightblue'
   },
   options: {
     marginTop: 20,
